@@ -22,7 +22,7 @@ A fast, scalable crypto trading platform built with **Next.js** and powered by *
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://gitlab.com/[username]/CryptoSkope.git
+git https://github.com/mary-dante/cryptoskope.git
 cd CryptoSkope
 npm install
 ```
